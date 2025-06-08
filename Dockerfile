@@ -1,5 +1,4 @@
-# Dockerfile
-FROM n8nio/n8n:1.49.0  # ou latest
+FROM n8nio/n8n:1.49.0
 
 # Installer ffmpeg et yt-dlp
 USER root
